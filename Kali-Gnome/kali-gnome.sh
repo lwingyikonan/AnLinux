@@ -75,7 +75,7 @@ echo "Fix Done"
 ;;
 
     4)
-    https://raw.githubusercontent.com/lwingyikonan/AnLinux/main/KaliGnome.sh && chmod +x KaliGnome.sh && bash KaliGnome.sh
+   wget https://raw.githubusercontent.com/lwingyikonan/AnLinux/main/KaliGnome.sh && chmod +x KaliGnome.sh && bash KaliGnome.sh
      ;;
     5)
      cd 
