@@ -98,8 +98,8 @@ pink='\033[1;35m'
 echo -e "
 $red
 
-             Install Done Now you can start winex11 desktop
-                To login,write wine --start
+             Install Done Now you can install apt install python2
+                
                    HappyDay 
                    ©By LwinGyi
                    ©By Konan
