@@ -1,10 +1,12 @@
+clear
+
 {
 red='\033[1;31m'
 grn='\033[1;32m'
 }
 echo -e "
 $grn
-                                   CREATE BY AKATSUKI COUNCIL
+                CREATE BY AKATSUKI COUNCIL
 "| pv -qL 200
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -18,7 +20,6 @@ W="$(printf '\033[1;37m')"
 C="$(printf '\033[1;36m')"
 
 #Warning
-clear 
 echo ${R}"Warning!
 Error may occur during installation."
 echo " "
